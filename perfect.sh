@@ -1,6 +1,5 @@
 clear
 echo Enter a number
-
 read no
 i=1
 ans=0
