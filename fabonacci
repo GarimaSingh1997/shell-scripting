@@ -5,6 +5,7 @@ b=1
 if [ $n -ne 0 ]
 then
 	if [ $n -eq 1 ]
+	
 	then
 		echo "0"
 	else 
