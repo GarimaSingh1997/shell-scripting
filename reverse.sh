@@ -3,7 +3,6 @@ read a
 rev=0
 sd=0
 num=$a
- 
 while [ $a -gt 0 ]
 do
         sd=`expr $a % 10`
