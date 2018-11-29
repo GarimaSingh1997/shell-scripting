@@ -1,6 +1,5 @@
 echo "Enter a Number:"
 read a
- 
 rev=0
 sd=0
 num=$a
