@@ -7,4 +7,5 @@ do
 y=` expr $n \* $y`
 n=`expr $n - 1`
 done
+
 echo "Factorial is" $y
