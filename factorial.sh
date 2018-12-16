@@ -1,6 +1,5 @@
 echo "Enter a number"
 read n
-
 y=1
 while [ $n -gt 0 ]
 do
