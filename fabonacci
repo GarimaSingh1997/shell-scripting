@@ -17,6 +17,12 @@ then
 			echo $b
 			n=`expr $n - 2` 
 			while [ $n -gt 0 ]
+			
+			
+			
+			
+			
+			
 			do
 			
 				c=`expr $a + $b`
